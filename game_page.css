@@ -9,3 +9,9 @@ padding: 10px;
 float: none;
 text-align: left;
 }
+#button_send{
+    background-color: rgb(150, 253, 253);
+}
+#button_check{
+    background-color: rgb(215, 143, 246);
+}
